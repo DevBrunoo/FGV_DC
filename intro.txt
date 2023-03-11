@@ -1,0 +1,124 @@
+Introdução a ciencia de dados.
+
+
+O que e cientista de dados, isso e algo complexo de responder porque esse termo foi criado muito mesmo antes de a ciência de dados fosse reconhecida.
+
+ E como arqueologia antigamente para ser considerado arqueólogo era somente necessário ter uma Pá e ir escavar, hoje em dia você precisa de varios diplomas paras ser considerado um arqueólogo. 
+
+Então você e um cientista de dados se usa-los de modo cientifico, porem certos grupos se intitulam mais do que os outros, você e um cientista de dados se for um estético, analista de dados ou em uma das ciências biológicas. 
+
+Os primeiros a se chamarem de cientista de dados foram os matemáticos, outros engenheiros computacionais, ou ate de negócios e fianças, se voce trabalha com números e conhece os dados poderia se chamar de cientista dados.  
+
+
+Cientistas de dados fazem perguntas e reavilon o tempo todo, criando assim dados de pesquisa isso pode ser chamado de abordagem empírica para obter insights.
+
+———————————
+* Em software, pense em software como ferramentas e evite tentar aprender todas elas, pois isso nao transformara você em um cientista de dados, e um método cientifico que torna alguém um cientista de dados. 
+
+As ferramentas se encaixam em tres categorias.
+1. Armazenamento: Para armazenamento dados você pode usar planilhas, banco de dados e armazenamento de valores chave, os mais usados sao Hadoop, Cassandra e POST REST SQL.
+2. Depuração: A deburação e uma pratica comum que facilita trabalhar com dados, e precisa de editores de texto, ferramentas de script ou linguagem de programação. 
+3. Analise: Esse são pacotes estatísticos que ajudam a analisar os dados, os mais usados são o pacote de código aberto R, SPSS e Python. 
+
+Big datas são conjuntos de dados nao grande que nao cabem na maioria dos bancos de dados.
+
+Ciências de dados e Big datas nao são a mesma coisa, como falado antes ciência de dados e dar um método cientifico aos dados, porem essa e uma área muito ativa na ciência de dados. 
+
+Big data tem como o software de código abeto mais popular o Hadoop, ele usa um sistema de arquivos distribuídos e amarzena os dados, em vários servidores padrões. 
+
+Podemos usar R o Python para analisar os dados. Lembres-se de se concentrar na analise as ferramentas e os dados sao meio para nos chegar ao os melhores insights. 
+‘’’’’
+A ciencia de dados pode começar com uma pergunta, mas e preciso executar experimentos e depois usar planilhas e software para criar os relatórios, por fim analisados e ver se falta algum insight.
+‘’’’’
+———————————
+Como trabalhar com bancos de dados.
+
+Cientista de dados trabalham com varias formas dedados desde planilhas antigas a NoSQL e devem estar familiarizados com isso. 
+
+Bancos de dados relacionais tem que ter um bom design, e preciso saber muito sobre os dados antes de iniciar a coleta. A maioria das empresas grandes ainda fornece suporte a essas tecnologias.
+
+Ainda hoje em dia o banco de dados relacionais sao a base dos dados corporativos, e muito importante entender seus termos, voce precisa muito deles quando for trabalhar com essa tecnologia. 
+
+Um exemplo e trabalhando com EDW, que e um banco de dados focado em analise dados. Um banco de dados tipicos trabalha com dados em tempo real, o data werehouse e usado para analisar o que ocorreu. 
+
+Boa parte da ciencias de dados ainda e sobre amarzena dados. 
+——
+Bancos de dados relacionais ainda permanecem em muitas grandes empresas e são a espinha dorsal de grandes operações online, ja data werhouse sao como base da analise corporativa. 
+
+Porem modelos mais novos sao melhores que modelos antigos, veja como exemplo NoSQL que muitos programadores gostam.  
+￼
+￼
+Devido ao design simples do NoSQL e mais fácil escrever app simples que podem ir a escalas globais. 
+
+Big Data forcece uma fonte robusta de dados e permite fazer perguntas, “Problema de big data ou um grande “problema de dados”. Big e visto com o que excede a capacidade de hardware e software comumente usados.  
+
+Um modo de verificar se e um problema de big data e ver se atende as quadras categorias. 
+￼
+
+A questão do volume e se você coleta terabyte de armazenamento por dia essa e uma quantidade aceitável agora se for Petabyte ou Exabyte pode ser um problema. 
+
+A questão da velocidade e coleta muitos dados rápidos e nao saber lidar com isso. Questão da veracidade e se o a coleta de dados foi inutil e nao atendeu o que se buscava. 
+—————
+
+Quando voce trabalha em uma equipe de cientistas de dados voce tem que amarzenar muitos dados, a tecnologia NoSQL tem muita flexibilidade para isso. Voce deve saber que dados estão armazenando e qual e a melhor opção de amarzenalos. 
+
+Existe três tipos de opções que voce deve considerar os: 
+￼
+
+Dados estruturados seguem uma forma especifica em uma ordem especifica eles sao considerados a base de banco de dados, pois e mais barato inflexível e nao requer tanto design inicial. 
+
+
+￼
+Um exemplo desses dados e uma planilha. A maioria dessas planilhas tem modelos que devem serem seguidos, pois assim nao cria muito lixo de dados. E bom trabalhar com banco de dados relacionais usando dados estruturados pois e mais fácil de achamos depois, porem tome cuidado ao relacionar esses dados com outros voce pode encontrar dificuldades um exemplo e.
+
+Pense que voce ir a adotar uma nova empresa de transporte ao seu negocio, porem essa empresa usa um banco de dados estruturados diferente do seu, fazer essa interação pode ser algo complicado voce pode fazer isso transformando os em dados semiestruturados. 
+
+Exemplos de dados semiestruturados sao: 
+￼
+Esses sao os tipos mais normais, com isso e possível voce fazer interação via JSON aonde as atualizações ficam guardadas. 
+
+Organizações grandes preferem dados nao struturados pois possui mais interaçãos, para dados nao estruturados nao existe um modelo de dados definidos. 
+Trabalhar com esses tipos de banco de dados e o desafio mais grande da ciência de dados. Esses projetos podem trazer uma visão de 360 graus dos clientes que buscar entender o que os motiva e muito mais, com o passar do tempo esse banco de dados aumenta e te ajudam a melhora os processos cada vez mais.
+
+Voce precisa de uma politica de retenção de dados voce poderá assumir o risco de corromper os dados se nao a tiver, e como ter sapatos velhos que Voce nao quer jogar fora com medo de ele retornarem a moda, porem você esquece dos novos sapatos que tem ou nao quer adquirir novos.
+———————————————
+Cientista de dados criam estatísticas com base nos seus dados coletados, e a melhor maneira de contar 
+
+essa estatisca e por uma historia.
+
+Muitos politicos usam isso para manipular a percepção de uma tal estatística, exemplo uma familia mediana depois do seu turno começou a ganhar a 3 mil dólares a mais porem ele nao fala da media das famílias mas faces a entender que sim. 
+
+Nesse exemplo o advogado soma a renda das famílias, 
+￼
+E divide o total entre as familias
+￼
+Depois disso pode se dizer que cada familia ganhou 3 mil dólares a mais
+￼
+——
+Probabilidade. 
+
+As pessoas pensam que estatística e matemática completa porem e mais como contar historias. O lado estatístico da probabilidade enfoca na questão de distribuição, se voce joga um dado de 6 lados existe 6 lados possíveis, ou seja a chance e 1 em 6 a chance disso e de 17% para cada dado. 
+￼
+
+A probabilidade leva a lugares inimagináveis ela também pode ser usada para fazer melhores perguntas. 
+
+Correlação 
+
+A Netflix e outras grandes empresas usam a correlação, eles usam para recomendar seus produtos.
+
+‘’’
+Correlação mede em que grau duas coisas estão relacionadas, geralmente e uma medida de 1 e 0. Se e 1 os dois elementos estão fortemente correlacionados. 
+
+O numero pode ser negativo que indica uma correlação inversa ou anti correlação. Uma correlação inversa nao e ruim e a apenas outra maneira de descobrir uma correlação. 
+
+Coeficiente de correlação e o calculo normalmente nao temos um numero inteiro então una correlação de 0,75 0u 0,50 demostra uma relação boa. 
+
+Correlação positiva, as pessoas compram porque gostam
+
+Correlação negativa as pessoas compram porque nao tem autoestima suficiente. 
+
+Vendo se a correlacao esta certa, correlação nao implica causação, um exemplo e o seguinte imagine que todo ano sua venda de carros aumenta no final do ano, voce pode achar que e pelo bonus de final de ano porem apos uma pesquisa descobre que e por uma resolução de vida nova no ano novo.
+
+￼
+A equipe precisa entender melhor o passado para solucionar o futuro. Faca boas perguntas sobre os dados e crie relatórios desafiadores com as ferramentas estatisticas fazendo a previsão do futuro sera muito melhor. 
+Curso ministrado por Doug Rose expert em ciências de dados e uma grande autoridade nesse topico

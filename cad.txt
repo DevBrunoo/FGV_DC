@@ -1,0 +1,195 @@
+FGV ciencia de dados 
+
+A disciplina de Introdução à Ciência de Dados trata de uma área interdisciplinar que utiliza técnicas de computação, matemática, inteligência artificial, estatística e otimização para resolver problemas analíticos complexos, usando grandes conjuntos de dados como base.
+
+
+Um cientista de dados deve ter conhecimento das diversas modalidades de técnica que podem ser empregadas em cada uma das etapas envolvidas nesse contexto, sendo ainda capaz de validar resultados e respeitar aspectos éticos.
+
+
+
+Bom de revisar esse link com: https://nc-www5.fgv.br/cursosgratuitos/cg/OCWICDEAD/base_rede/pag/assets/Videoaula_03_M1_Habilidades_de_um_cientista_de_dados_revisto.pdf
+
+Sofywares usados.
+
+Pandas e umsa biblioteca de software usada para visualização de dados construída com Python, ela permiti abordagem rápida e flexível, com estruturas robustas para se trabalhar com dados relacionais. 
+
+Pandas e fácil de codificar e muito util
+
+Scikit-learn e uma biblioteca de aprendizado de máquina em Python, usa Jupyter para processamento. Amei 
+	◦	Aprender mais 
+
+Numpy e uma biblioteca de programação em Python, ele e usado para processamentos grandes e contem uma grande coleção de funções de matemáticas. 
+
+
+—-Parei na folha 9——
+
+Places To Visit This Summer
+Explore the most beautiful places to visit this summer
+
+Matemática nao e a coisa mais difícil em Data Science, com o passar do tempo se torna a coisa mais fácil, a coisa mais difícil e saber fazer a pergunta certa. 
+
+	0.	Ouça a pergunta
+	0.	Selecione a tecnologia para responder à pergunta
+	0.	Encontrar dados
+	0.	Use a tecnologia sobre os dados
+
+Não ha certeza em nenhum dado, alias nao ha certeza em nada. 
+
+Quanto menos dados voce tiver, pior sera a previsão ou classificação. 
+
+
+“Mas dados superam algoritmos melhores” E ate verdade porem voce nunca tera os dados todos.
+
+	⁃	Obtenha o máximo de respostas menores que puder para ganhar tempo para desenvolver respostas mais completas.
+
+Pessoa orientada por dado, um data driving. 
+
+
+Pelo fato de termos cada vez mais informações e dados a nossa volta, todos seremos analista de dados. 
+——
+Segredos para um experimento com dados bem sucedido. 
+
+Um dos resultados negativos sao:  decisões tomadas que desconsideram evidências claras dos dados, resultados equívocos que não lançam luz em uma direção ou outra, incerteza que impede a criação de novos conhecimentos.
+
+Coisas boas sao novos conhecimentos, tenha politica baseada em evidencias, criar aplicativos reutilizados. 
+
+———
+
+Ha aspectos em que o humano e superior as maquinas em dados, um exemplo e no aspecto visual, voce olha uma foto e ja identificar de imediato do que se trata, mas um computador olha a mesma foto e vê somente números, e precisa de dados e algoritmos complexos para identificar o que e a imagem. 
+
+Saiba pergunta a sua equipe e propor novas ideias. 
+
+————————
+Parei no modulo 3 pagina 15
+
+Ciências de dados e suas etapas 
+
+Os processos de extração e geração de conhecimento são executadas partir das seguintes etapas normalmente: preparação dos dados, exploração dos dados, escolha do modelo, ajuste do modelo e, finalmente, avaliação e uso do modelo.
+
+Diferença de dados estruturados com nao estruturados: A maior diferencia e que os estruturados sao organizados em formato bem definido e consistente, enquanto os nao estruturados nao segue uma estrutura especifica. 
+
+Os dados estruturados se encaixam em dados numéricos, dados alfanuméricos ou dados categóricos, e sao usado normalmente BD relacionais e planilhas. 
+
+Dados nao estruturados podem ser textos livres, fotos, videos etc, e normalmente e usado em NoSQL ou sistema de arquivos nao estruturados.
+
+Em resumo a maior diferencia e a organização que pode afetar como os dados sao armazenados, gerenciados e analisados.
+
+Dados categóricos são dados que representam uma categoria ou classificação, e podem ser divididos em duas subcategorias: nominais e ordinais.
+
+
+
+——
+
+	•	Parei na pagina 18
+
+Preparação dos dados
+
+
+
+A etapa de preparação dos dados é de extrema importância e envolve tarefas como: 
+
+	0.	 transformação e engenharia de atributos; 
+	0.	 checagem de consistência;
+	0.	  atributos redundantes e 
+	0.	 dados faltantes.
+	0.	
+
+Transformar atributos via agrupamento ou categorização é extremamente útil. 
+
+Dados inconsistentes impactam na qualidade dos modelos gerados e devem ser removidos. A compreensão do fenômeno ou processo a partir do qual os dados foram gerados é o caminho mais seguro para garantir e verificar a sua consistência.
+
+
+EXPLORANDO E ANALISANDO OS DADOS
+
+
+
+
+
+dados_fenotipos
+
+
+
+Métodos descritivos sao uma das principais técnicas utilizadas na analise exploratória de dados em ciencia de dados.  
+
+Os métodos preditivos são técnicas de análise de dados usadas para fazer previsões com base em padrões identificados em dados históricos. Usam algoritmo de aprendizagem de maquina
+
+Análise preditiva em SQL é a criação de modelos de regressão linear usando funções como LINEST e FORECAST no Microsoft SQL Server para prever valores futuros com base em dados históricos em um banco de dados SQL.
+
+Métodos supervisionados usam dados rotulados para treinar modelos de aprendizado de máquina para prever ou classificar novos dados, enquanto métodos não supervisionados identificam padrões em conjuntos de dados não rotulados. Exemplo de implementação em SQL: Clustering não supervisionado com a função K-Means para agrupar clientes com base em padrões de compras de um banco de dados SQL.
+
+
+
+
+Hello, it is a pleasure to introduce myself to you my name is Bruno Oliveira. I work as a software engineer for over 3 years and web designer for over 5 years, I have experience in several different programming languages. I’m studying for a bachelor’s degree in computer engineering at UNIFRAN college, one of the largest in South America, I graduated in the introduction to computer science at Harvardx and I’m sharing my projects on my Instagram and GitHub daily
+
+
+
+Tecnicas de agrupamento 
+
+
+Técnica de classificação,  
+
+
+
+
+
+Classificação SVN 
+
+
+O SVM é um algoritmo de aprendizado de máquina que classifica dados em diferentes categorias, encontrando um hiperplano que separa as amostras em duas classes distintas, maximizando a margem entre elas. Ele é comumente usado em tarefas de classificação binária e multi-classe, como na classificação de e-mails em spam ou não spam. O SVM é treinado com um conjunto de dados rotulados e usa características para classificar novos dados com alta precisão. É um algoritmo muito popular e amplamente utilizado em áreas como reconhecimento de padrões, análise de dados e processamento de linguagem natural.
+
+
+Pag 30 - 
+
+Nesta parte e para focalizar em processos matemáticos para o pocesso de obtenção e analise de dados.
+
+	0.	Tecnicas para tratamento de dados faltantes 
+	0.	Detecção de objetos discrepantes (outliers) 
+
+Exemplos reais da era de ciência de dados.
+
+
+
+Q questões éticas em Ciência de dados. 
+
+Dados que nao devem ser divulgados: 
+
+
+
+Quando nos faz uma harmonizar dos dados nos pode reedificar utilizando banco de dados que não são harmonizados. 
+
+
+A proxima geração de cientista de dados e habilidades requeridas. 
+
+
+Saiba interpretar resultados. 
+Saber se interrogar a si e o projeto, a si mesmo com base no projeto
+Seja comunicativo e sociável, faca e tenha um time para se interagir sobre o projeto.
+Seja cosmopolita e entenda sobre outras areas e interesses. 
+
+	0.	1 
+	0.	2
+	0.	1
+	0.	 4
+	0.	2
+	0.	1
+
+	0.	4
+	0.	
+
+
+
+
+
+
+
+
+O método Z-value tem como um de seus objetivos: 
+
+1 )reescalar os dados para que fiquem no intervalo entre -1 e 1.
+
+2 )transformar os valores de um atributo para facilitar a identificação deoutliers.
+
+3 )modificar os valores de um atributo para que não fiquem entre os valores 0 e 1.
+
+4 )O transformar os valores de um atributo para que possuam média e variância unitárias.
